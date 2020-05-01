@@ -1,0 +1,44 @@
+/target/
+/hotbits/
+/cases/
+/data/
+/config/
+/images/
+/gui//node_modules
+/go/bin/
+/go/*.exe
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.gz
+
+### Visual Studio Code ###
+.vcode
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Angular Distilled Folder ###
+/src/main/resources/static/
+ArduinoRadionicsProtocol/.vscode/arduino.json
+ArduinoRadionicsProtocol/.vscode/c_cpp_properties.json
+ArduinoRadionicsProtocol/.vscode/tasks.json

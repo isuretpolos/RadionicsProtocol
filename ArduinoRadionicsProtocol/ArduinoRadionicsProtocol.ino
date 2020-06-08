@@ -52,6 +52,8 @@ void broadcast() {
 
   for (int i=0; i<signature.length(); i++) {
     int c = signature.charAt(i);
+
+    
     
     if ((c & 1) == 0) {
       digitalWrite(coilPin, HIGH);

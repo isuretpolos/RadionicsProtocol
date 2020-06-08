@@ -26,9 +26,6 @@
 *.ipr
 *.gz
 
-### Visual Studio Code ###
-.vcode
-
 ### NetBeans ###
 /nbproject/private/
 /build/
@@ -39,6 +36,7 @@
 
 ### Angular Distilled Folder ###
 /src/main/resources/static/
+
 ArduinoRadionicsProtocol/.vscode/arduino.json
 ArduinoRadionicsProtocol/.vscode/c_cpp_properties.json
 ArduinoRadionicsProtocol/.vscode/tasks.json

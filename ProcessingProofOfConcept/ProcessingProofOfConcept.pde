@@ -86,7 +86,7 @@ void mousePressed() {
       println(button.command);
       RadionicsCommand command = RadionicsCommand.getByName(button.command);
       println(command.getValue());
-      arduino.write(command.getValue().toString() + " ARNICA C30" + "\n");
+      arduino.write(command.getValue().toString() + " Salvia divinorum ska maría pastora, seer's sage, yerba de la pastora" + "\n");
     }
   }
 }
